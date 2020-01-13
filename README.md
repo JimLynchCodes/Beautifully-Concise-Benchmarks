@@ -23,7 +23,7 @@ For the sake of overall objectiveness and in spirit of leaving it up the people 
 #### 3. Total Number of Functions
 
 
-## 1. BCB Ignores "Names" In Character Counts
+## BCB Ignores "Names" In Character Counts
 Having good variable and functions names is arguably one of the most important things in writing good programs. Because good naming applies equally to every programming langues and because we didn't want all the examples to have single-digit names for everything just for the sake of optimization for this benchmark, the names of variables, functions, constants, interfaces, constants, etc. are not included in the character count. They are not included when they are defined, and they are lot included when they are referred to later. Thus, we are left with the character count that reflects what characters are just a result of the syntax of the lanugage. This does make calculating the BCB character counts more difficult, but with this policy we can have well-named constructs in our examples yet still fairly compare solutions in one language versus another.
 
 
